@@ -92,11 +92,5 @@ Requirements:
 
 ---
 
-### ✅ Tips:
-- Replace `https://github.com/your-username/clustering-algorithms-analysis.git` with your actual GitHub repo URL.
-- Include a `clustering_analysis.py` script and optionally a `LICENSE` file in your repo.
-
-Would you like help generating visuals (e.g. a 3D scatter plot or cluster comparison chart) to embed in your README as well?
-
 
    
